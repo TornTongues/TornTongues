@@ -1,6 +1,8 @@
-# Torn Tongues: Curated Censored List
+# Torn Tongues: Curated list of online deplatforming and censorship
 
 *"When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say."*
+
+Latest version of this document: [https://gitgud.io/TornTongues/torntongues](https://gitgud.io/TornTongues/torntongues)
 
 - [Nations](#nations)
   * [China](#china)
