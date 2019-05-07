@@ -20,6 +20,8 @@
     + [Medium](#medium)
     + [Twitch](#twitch)
     + [Discord](#discord)
+  * [Development](#development)
+    + [GitHub](#github)
   * [Dating](#dating)
     + [Tinder](#tinder)
     + [Bumble](#bumble)
@@ -340,6 +342,12 @@ Mark Meechan (Count Dankula)
 
 * [2019/05/01 Count Dankula BANNED From Discord Due To Media Smears](https://www.youtube.com/watch?v=ajsNSykdlKI)
 
+## Development
+
+### GitHub
+
+* [2016/04/15 [SocJus] GitHub bans a popular WebM conversion library with the word "retard" in its description.](https://old.reddit.com/r/KotakuInAction/comments/3eizt4/socjus_github_bans_a_popular_webm_conversion/)
+* [2018/06/05 apparently scanning open source projects for "offensive" words. Our project was flagged for the use of the word "retard"](https://twitter.com/GitGudGG/status/1004164620230144001)
 
 ## Dating
 
